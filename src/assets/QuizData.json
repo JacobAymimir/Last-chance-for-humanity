@@ -8,7 +8,10 @@
 "Formicidae",
 "Rhopalocera"
 ],
-"correctIndex": 3
+"type": "radio",
+
+"correctIndex": 3,
+"id": 1
 },
 {
 "question": "How hot is the surface of the sun?",
@@ -18,7 +21,9 @@
 "12,130 K",
 "101,300 K"
 ],
-"correctIndex": 1
+"type": "radio",
+"correctIndex": 1,
+"id": 2
 },
 {
 "question": "Who are the actors in The Internship?",
@@ -28,14 +33,16 @@
 "Kaley Cuoco, Jim Parsons",
 "Vince Vaughn, Owen Wilson"
 ],
-"correctIndex": 3
+"type": "radio",
+
+"correctIndex": 3,
+"id": 3
 },
 {
 "question": "What is the capital of Spain?",
-"answers": [
-"Madrid"
-],
-"correctIndex": "madrid"
+"type": "input",
+"correctIndex": "madrid",
+"id": 4
 },
 {
 "question": "What is 70 degrees Fahrenheit in Celsius?",
@@ -45,7 +52,10 @@
 "21.1111",
 "158"
 ],
-"correctIndex": 2
+"type": "radio",
+
+"correctIndex": 2,
+"id": 5
 },
 {
 "question": "When was Mahatma Gandhi born?",
@@ -55,7 +65,10 @@
 "July 18, 1918",
 "January 15, 1929"
 ],
-"correctIndex": 0
+"type": "radio",
+
+"correctIndex": 0,
+"id": 6
 },
 {
 "question": "What is 65 times 52?",
@@ -65,7 +78,10 @@
 "3380",
 "3520"
 ],
-"correctIndex": 2
+"type": "radio",
+
+"correctIndex": 2,
+"id": 7
 },
 {
 "question": "Which of these instruments normally has 5 strings?",
@@ -75,7 +91,10 @@
 "Guitar",
 "Bass"
 ],
-"correctIndex": 2
+"type": "radio",
+
+"correctIndex": 2,
+"id": 8
 },
 {
 "question": "When did The Avengers come out?",
@@ -85,7 +104,10 @@
 "May 3, 2013",
 "April 4, 2014"
 ],
-"correctIndex": 1
+"type": "radio",
+
+"correctIndex": 1,
+"id": 9
 },
 {
 "question": "What is 48,879 in hexidecimal?",
@@ -95,7 +117,10 @@
 "0xDEAD",
 "0x12D591"
 ],
-"correctIndex": 1
+"type": "radio",
+
+"correctIndex": 1,
+"id": 10
 }
 ]
 }

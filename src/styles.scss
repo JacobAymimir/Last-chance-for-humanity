@@ -1,20 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
 
-html{
+html {
     background-color: #ffffffab;
-    font-family: 'Oxygen', sans-serif;
+    font-family: 'Courier New', monospace;
     font-weight: 400;
     font-size: 22px;
 
+    button {
+        background-color: #ffffffab;
+        font-family: 'Courier New', monospace;
+        font-weight: 400;
+        font-size: 22px;
+    }
 }
 
 
 .bordered {
-border: 2px solid black;
-border-radius: 5px;
-margin-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
 }
-    
-
 
